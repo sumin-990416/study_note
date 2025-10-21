@@ -1,7 +1,13 @@
-
 .obsidian/workspace.json
-.obsidian/workspace
-.obsidian/cache/
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/canvas.json
+.obsidian/plugins/
+
 .obsidian/plugins/*/data.json
+work.json
+
+.obsidian/cache/
 .trash/
-private/
+.DS_Store
