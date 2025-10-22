@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "study_notes/daily_note",
+  "templates_folder": "study_notes/note_template",
   "templates_pairs": [
     [
       "",
